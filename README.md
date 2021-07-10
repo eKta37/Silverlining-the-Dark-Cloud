@@ -1,4 +1,4 @@
-# Silverlining the Dark Cloud
+# Silverlining in Dark Cloud
 Identifying counter speech in the era of hate speech to overcome the harmful/hateful speech.
 --------------------------------------------------------------------------------------------
 
